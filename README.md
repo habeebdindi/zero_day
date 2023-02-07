@@ -1,0 +1,1 @@
+# This repository contains tasks solutions for the project **Vagrant**
