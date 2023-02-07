@@ -1,0 +1,1 @@
+# This directory contains a simple **Vagrant** task
